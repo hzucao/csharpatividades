@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\dev-ata\\exercioc\\calculos\\calculos.csproj",
-      "projectName": "calculos",
-      "projectPath": "c:\\dev-ata\\exercioc\\calculos\\calculos.csproj",
+      "projectUniqueName": "C:\\dev\\exercioc\\switch\\switch.csproj",
+      "projectName": "switch",
+      "projectPath": "C:\\dev\\exercioc\\switch\\switch.csproj",
       "packagesPath": "C:\\Users\\sn1081494\\.nuget\\packages\\",
-      "outputPath": "c:\\dev-ata\\exercioc\\calculos\\obj\\",
+      "outputPath": "C:\\dev\\exercioc\\switch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sn1081494\\AppData\\Roaming\\NuGet\\NuGet.Config"

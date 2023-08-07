@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\dev-ata\\exercioc\\calculos\\calculos.csproj",
-      "projectName": "calculos",
-      "projectPath": "c:\\dev-ata\\exercioc\\calculos\\calculos.csproj",
+      "projectUniqueName": "C:\\dev\\exercioc\\encadeado\\encadeado.csproj",
+      "projectName": "encadeado",
+      "projectPath": "C:\\dev\\exercioc\\encadeado\\encadeado.csproj",
       "packagesPath": "C:\\Users\\sn1081494\\.nuget\\packages\\",
-      "outputPath": "c:\\dev-ata\\exercioc\\calculos\\obj\\",
+      "outputPath": "C:\\dev\\exercioc\\encadeado\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sn1081494\\AppData\\Roaming\\NuGet\\NuGet.Config"

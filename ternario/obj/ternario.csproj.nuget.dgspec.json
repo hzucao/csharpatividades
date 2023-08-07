@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dev-ata\\exercioc\\calculos\\calculos.csproj": {}
+    "C:\\dev\\exercioc\\ternario\\ternario.csproj": {}
   },
   "projects": {
-    "c:\\dev-ata\\exercioc\\calculos\\calculos.csproj": {
+    "C:\\dev\\exercioc\\ternario\\ternario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev-ata\\exercioc\\calculos\\calculos.csproj",
-        "projectName": "calculos",
-        "projectPath": "c:\\dev-ata\\exercioc\\calculos\\calculos.csproj",
+        "projectUniqueName": "C:\\dev\\exercioc\\ternario\\ternario.csproj",
+        "projectName": "ternario",
+        "projectPath": "C:\\dev\\exercioc\\ternario\\ternario.csproj",
         "packagesPath": "C:\\Users\\sn1081494\\.nuget\\packages\\",
-        "outputPath": "c:\\dev-ata\\exercioc\\calculos\\obj\\",
+        "outputPath": "C:\\dev\\exercioc\\ternario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sn1081494\\AppData\\Roaming\\NuGet\\NuGet.Config"
