@@ -1,0 +1,15 @@
+C:\dev-ata\exercioc\funcwhile\bin\Debug\net7.0\funcwhile.exe
+C:\dev-ata\exercioc\funcwhile\bin\Debug\net7.0\funcwhile.deps.json
+C:\dev-ata\exercioc\funcwhile\bin\Debug\net7.0\funcwhile.runtimeconfig.json
+C:\dev-ata\exercioc\funcwhile\bin\Debug\net7.0\funcwhile.dll
+C:\dev-ata\exercioc\funcwhile\bin\Debug\net7.0\funcwhile.pdb
+C:\dev-ata\exercioc\funcwhile\obj\Debug\net7.0\funcwhile.csproj.AssemblyReference.cache
+C:\dev-ata\exercioc\funcwhile\obj\Debug\net7.0\funcwhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev-ata\exercioc\funcwhile\obj\Debug\net7.0\funcwhile.AssemblyInfoInputs.cache
+C:\dev-ata\exercioc\funcwhile\obj\Debug\net7.0\funcwhile.AssemblyInfo.cs
+C:\dev-ata\exercioc\funcwhile\obj\Debug\net7.0\funcwhile.csproj.CoreCompileInputs.cache
+C:\dev-ata\exercioc\funcwhile\obj\Debug\net7.0\funcwhile.dll
+C:\dev-ata\exercioc\funcwhile\obj\Debug\net7.0\refint\funcwhile.dll
+C:\dev-ata\exercioc\funcwhile\obj\Debug\net7.0\funcwhile.pdb
+C:\dev-ata\exercioc\funcwhile\obj\Debug\net7.0\funcwhile.genruntimeconfig.cache
+C:\dev-ata\exercioc\funcwhile\obj\Debug\net7.0\ref\funcwhile.dll
