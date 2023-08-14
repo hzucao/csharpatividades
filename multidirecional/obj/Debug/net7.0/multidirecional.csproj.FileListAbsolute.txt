@@ -1,0 +1,15 @@
+C:\dev-ata\exercioc\multidirecional\obj\Debug\net7.0\multidirecional.csproj.AssemblyReference.cache
+C:\dev-ata\exercioc\multidirecional\obj\Debug\net7.0\multidirecional.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev-ata\exercioc\multidirecional\obj\Debug\net7.0\multidirecional.AssemblyInfoInputs.cache
+C:\dev-ata\exercioc\multidirecional\obj\Debug\net7.0\multidirecional.AssemblyInfo.cs
+C:\dev-ata\exercioc\multidirecional\obj\Debug\net7.0\multidirecional.csproj.CoreCompileInputs.cache
+C:\dev-ata\exercioc\multidirecional\bin\Debug\net7.0\multidirecional.exe
+C:\dev-ata\exercioc\multidirecional\bin\Debug\net7.0\multidirecional.deps.json
+C:\dev-ata\exercioc\multidirecional\bin\Debug\net7.0\multidirecional.runtimeconfig.json
+C:\dev-ata\exercioc\multidirecional\bin\Debug\net7.0\multidirecional.dll
+C:\dev-ata\exercioc\multidirecional\bin\Debug\net7.0\multidirecional.pdb
+C:\dev-ata\exercioc\multidirecional\obj\Debug\net7.0\multidirecional.dll
+C:\dev-ata\exercioc\multidirecional\obj\Debug\net7.0\refint\multidirecional.dll
+C:\dev-ata\exercioc\multidirecional\obj\Debug\net7.0\multidirecional.pdb
+C:\dev-ata\exercioc\multidirecional\obj\Debug\net7.0\multidirecional.genruntimeconfig.cache
+C:\dev-ata\exercioc\multidirecional\obj\Debug\net7.0\ref\multidirecional.dll

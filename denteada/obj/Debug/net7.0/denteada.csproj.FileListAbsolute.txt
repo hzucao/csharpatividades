@@ -1,0 +1,15 @@
+C:\dev-ata\exercioc\denteada\bin\Debug\net7.0\denteada.exe
+C:\dev-ata\exercioc\denteada\bin\Debug\net7.0\denteada.deps.json
+C:\dev-ata\exercioc\denteada\bin\Debug\net7.0\denteada.runtimeconfig.json
+C:\dev-ata\exercioc\denteada\bin\Debug\net7.0\denteada.dll
+C:\dev-ata\exercioc\denteada\bin\Debug\net7.0\denteada.pdb
+C:\dev-ata\exercioc\denteada\obj\Debug\net7.0\denteada.csproj.AssemblyReference.cache
+C:\dev-ata\exercioc\denteada\obj\Debug\net7.0\denteada.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev-ata\exercioc\denteada\obj\Debug\net7.0\denteada.AssemblyInfoInputs.cache
+C:\dev-ata\exercioc\denteada\obj\Debug\net7.0\denteada.AssemblyInfo.cs
+C:\dev-ata\exercioc\denteada\obj\Debug\net7.0\denteada.csproj.CoreCompileInputs.cache
+C:\dev-ata\exercioc\denteada\obj\Debug\net7.0\denteada.dll
+C:\dev-ata\exercioc\denteada\obj\Debug\net7.0\refint\denteada.dll
+C:\dev-ata\exercioc\denteada\obj\Debug\net7.0\denteada.pdb
+C:\dev-ata\exercioc\denteada\obj\Debug\net7.0\denteada.genruntimeconfig.cache
+C:\dev-ata\exercioc\denteada\obj\Debug\net7.0\ref\denteada.dll
