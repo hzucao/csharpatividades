@@ -1,0 +1,15 @@
+C:\dev-ata\exercioc\banco\bin\Debug\net7.0\banco.exe
+C:\dev-ata\exercioc\banco\bin\Debug\net7.0\banco.deps.json
+C:\dev-ata\exercioc\banco\bin\Debug\net7.0\banco.runtimeconfig.json
+C:\dev-ata\exercioc\banco\bin\Debug\net7.0\banco.dll
+C:\dev-ata\exercioc\banco\bin\Debug\net7.0\banco.pdb
+C:\dev-ata\exercioc\banco\obj\Debug\net7.0\banco.csproj.AssemblyReference.cache
+C:\dev-ata\exercioc\banco\obj\Debug\net7.0\banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev-ata\exercioc\banco\obj\Debug\net7.0\banco.AssemblyInfoInputs.cache
+C:\dev-ata\exercioc\banco\obj\Debug\net7.0\banco.AssemblyInfo.cs
+C:\dev-ata\exercioc\banco\obj\Debug\net7.0\banco.csproj.CoreCompileInputs.cache
+C:\dev-ata\exercioc\banco\obj\Debug\net7.0\banco.dll
+C:\dev-ata\exercioc\banco\obj\Debug\net7.0\refint\banco.dll
+C:\dev-ata\exercioc\banco\obj\Debug\net7.0\banco.pdb
+C:\dev-ata\exercioc\banco\obj\Debug\net7.0\banco.genruntimeconfig.cache
+C:\dev-ata\exercioc\banco\obj\Debug\net7.0\ref\banco.dll

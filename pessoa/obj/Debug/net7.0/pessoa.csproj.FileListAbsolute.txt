@@ -1,0 +1,15 @@
+C:\dev-ata\exercioc\pessoa\obj\Debug\net7.0\pessoa.csproj.AssemblyReference.cache
+C:\dev-ata\exercioc\pessoa\obj\Debug\net7.0\pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev-ata\exercioc\pessoa\obj\Debug\net7.0\pessoa.AssemblyInfoInputs.cache
+C:\dev-ata\exercioc\pessoa\obj\Debug\net7.0\pessoa.AssemblyInfo.cs
+C:\dev-ata\exercioc\pessoa\obj\Debug\net7.0\pessoa.csproj.CoreCompileInputs.cache
+C:\dev-ata\exercioc\pessoa\bin\Debug\net7.0\pessoa.exe
+C:\dev-ata\exercioc\pessoa\bin\Debug\net7.0\pessoa.deps.json
+C:\dev-ata\exercioc\pessoa\bin\Debug\net7.0\pessoa.runtimeconfig.json
+C:\dev-ata\exercioc\pessoa\bin\Debug\net7.0\pessoa.dll
+C:\dev-ata\exercioc\pessoa\bin\Debug\net7.0\pessoa.pdb
+C:\dev-ata\exercioc\pessoa\obj\Debug\net7.0\pessoa.dll
+C:\dev-ata\exercioc\pessoa\obj\Debug\net7.0\refint\pessoa.dll
+C:\dev-ata\exercioc\pessoa\obj\Debug\net7.0\pessoa.pdb
+C:\dev-ata\exercioc\pessoa\obj\Debug\net7.0\pessoa.genruntimeconfig.cache
+C:\dev-ata\exercioc\pessoa\obj\Debug\net7.0\ref\pessoa.dll
