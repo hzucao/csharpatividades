@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using banco.Model;
-using caixa.Model;
+
 
 namespace banco{
     public class Program{

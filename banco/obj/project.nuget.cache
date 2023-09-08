@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JCqPcS4mZr3/yLMuYbHoexPzAEvCQMmj1OXRw0jE1fN4xlnvu0fLJuLeKiDbKWnb48CNMaO+10I+SjEmnupcHw==",
+  "dgSpecHash": "N8PEoA6Yyw+7MqMHoSrc281fFy82KATJbzLJFhytKRDK9yW0H1jatRsXPnqp+ltuO/I+I4BnQCRJL9s3qnBDIw==",
   "success": true,
-  "projectFilePath": "C:\\dev-ata\\exercioc\\banco\\banco.csproj",
+  "projectFilePath": "c:\\dev-ata\\exercioc\\banco\\banco.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

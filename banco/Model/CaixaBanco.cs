@@ -1,7 +1,7 @@
 using System.Dynamic;
-using caixa.Interface;
+using banco.Interface;
 
-namespace caixa.Model{
+namespace banco.Model{
     public class CaixaBanco : ICaixa
     {
         //Atributos

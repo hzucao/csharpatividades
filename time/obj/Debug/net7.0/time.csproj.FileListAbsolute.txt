@@ -1,0 +1,15 @@
+C:\dev-ata\exercioc\time\bin\Debug\net7.0\time.exe
+C:\dev-ata\exercioc\time\bin\Debug\net7.0\time.deps.json
+C:\dev-ata\exercioc\time\bin\Debug\net7.0\time.runtimeconfig.json
+C:\dev-ata\exercioc\time\bin\Debug\net7.0\time.dll
+C:\dev-ata\exercioc\time\bin\Debug\net7.0\time.pdb
+C:\dev-ata\exercioc\time\obj\Debug\net7.0\time.csproj.AssemblyReference.cache
+C:\dev-ata\exercioc\time\obj\Debug\net7.0\time.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev-ata\exercioc\time\obj\Debug\net7.0\time.AssemblyInfoInputs.cache
+C:\dev-ata\exercioc\time\obj\Debug\net7.0\time.AssemblyInfo.cs
+C:\dev-ata\exercioc\time\obj\Debug\net7.0\time.csproj.CoreCompileInputs.cache
+C:\dev-ata\exercioc\time\obj\Debug\net7.0\time.dll
+C:\dev-ata\exercioc\time\obj\Debug\net7.0\refint\time.dll
+C:\dev-ata\exercioc\time\obj\Debug\net7.0\time.pdb
+C:\dev-ata\exercioc\time\obj\Debug\net7.0\time.genruntimeconfig.cache
+C:\dev-ata\exercioc\time\obj\Debug\net7.0\ref\time.dll

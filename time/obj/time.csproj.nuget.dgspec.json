@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dev-ata\\exercioc\\banco\\banco.csproj": {}
+    "c:\\dev-ata\\exercioc\\time\\time.csproj": {}
   },
   "projects": {
-    "c:\\dev-ata\\exercioc\\banco\\banco.csproj": {
+    "c:\\dev-ata\\exercioc\\time\\time.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev-ata\\exercioc\\banco\\banco.csproj",
-        "projectName": "banco",
-        "projectPath": "c:\\dev-ata\\exercioc\\banco\\banco.csproj",
+        "projectUniqueName": "c:\\dev-ata\\exercioc\\time\\time.csproj",
+        "projectName": "time",
+        "projectPath": "c:\\dev-ata\\exercioc\\time\\time.csproj",
         "packagesPath": "C:\\Users\\sn1081494\\.nuget\\packages\\",
-        "outputPath": "c:\\dev-ata\\exercioc\\banco\\obj\\",
+        "outputPath": "c:\\dev-ata\\exercioc\\time\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sn1081494\\AppData\\Roaming\\NuGet\\NuGet.Config"

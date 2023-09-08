@@ -1,4 +1,4 @@
-namespace caixa.Interface{
+namespace banco.Interface{
     public interface ICaixa{
 
         public void Receber(double valor);
